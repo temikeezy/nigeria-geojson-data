@@ -4,6 +4,10 @@ A comprehensive, structured, and ready-to-use dataset of all **States**, **Local
 
 Ideal for developers, civic tech, GIS, mapping tools, and data-driven apps.
 
+
+
+**🔗 [Visit playground](https://nigeria-geojson-data.lovable.app/)**
+
 ---
 
 ## 📁 Folder: `data/`
